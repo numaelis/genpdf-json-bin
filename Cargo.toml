@@ -1,0 +1,16 @@
+[package]
+name = "genpdf-json-bin"
+version = "0.1.0"
+edition = "2024"
+authors = [
+    "Numael Garay <mantrixsoft@gmail.com>"
+]
+exclude = [".builds/*"]
+keywords = ["json", "pdf", "text", "layout"]
+homepage = ""
+repository = ""
+license = "GPL3"
+
+[dependencies]
+genpdf-json = {path = "../"}
+serde_json = "1.0"
