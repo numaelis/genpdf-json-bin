@@ -1,5 +1,6 @@
 # genpdf-json-bin
 
+Fast PDF generator
 
 To create use:
 
@@ -14,6 +15,13 @@ Example of use from the console:
 
 
 
+Links:
+
+https://github.com/numaelis/genpdf-json-rs
+
+https://gitlab.com/numaelis/pygenpdf_json
+
+https://gitlab.com/numaelis/pygenpdf
 
 
 
