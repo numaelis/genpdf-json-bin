@@ -3,12 +3,13 @@
 
 To create use:
 
-cargo build --release
+```cargo build --release```
 
 
-example of use from the console:
+Example of use from the console:
 
 ``` genpdf-json-bin  file.json  file.pdf ```
+
 ``` genpdf-json-bin  base.db  file.pdf ```
 
 
