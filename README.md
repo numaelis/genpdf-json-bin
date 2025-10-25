@@ -1,8 +1,15 @@
 # genpdf-json-bin
 
-From the console:
-``` genpdf-json-bin  file.json  file.pdf ```
 
+To create use:
+
+cargo build --release
+
+
+example of use from the console:
+
+``` genpdf-json-bin  file.json  file.pdf ```
+``` genpdf-json-bin  base.db  file.pdf ```
 
 
 
