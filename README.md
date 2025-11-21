@@ -13,6 +13,11 @@ Example of use from the console:
 
 ``` genpdf-json-bin  base.db  file.pdf ```
 
+or
+
+``` genpdf-json-bin  -j file.json  -o file.pdf ```
+
+``` genpdf-json-bin  -s base.db  -o file.pdf ```
 
 
 Links:
