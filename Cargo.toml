@@ -13,6 +13,8 @@ license = "GPL3"
 
 [dependencies]
 #genpdf-json = {path = "../"}
-genpdf-json = {git = "https://github.com/numaelis/genpdf-json-rs.git"}
+#genpdf-json = {git = "https://github.com/numaelis/genpdf-json-rs.git"}
+genpdf-json = {version = "0.1.14"}
+
 serde_json = "1.0"
 clap = { version = "4.0", features = ["derive"] }
