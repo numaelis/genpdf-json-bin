@@ -11,12 +11,12 @@ exclude = [".builds/*"]
 keywords = ["json", "pdf", "text", "layout"]
 homepage = "https://github.com/numaelis/genpdf-json-bin"
 repository = "https://github.com/numaelis/genpdf-json-bin"
-license = "GPL-3.0"
+license = "GPL-3.0-or-later"
 
 [dependencies]
 #genpdf-json = {path = "../"}
 #genpdf-json = {git = "https://github.com/numaelis/genpdf-json-rs.git"}
-genpdf-json = {version = "0.1.14"}
+genpdf-json = {version = "0.1.15"}
 
 serde_json = "1.0"
 clap = { version = "4.0", features = ["derive"] }
